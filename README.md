@@ -20,3 +20,8 @@ Il contient :
 7. Un instruction pour que le script ne quitte pas de suite, mais attende une action de l'utilisateur (afin de laisser voir le résultat du script à l'utilisateur).
 
 Tous les scripts batch de ce dépôt devront utiliser ce modèle (et être modifiés en conséquence quand le modèle sera modifié).
+
+## ANSI.bat
+
+Affiche les accents au format ANSI.
+(et leur équivalent en commentaire dans le code)
