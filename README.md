@@ -25,3 +25,10 @@ Tous les scripts batch de ce dépôt devront utiliser ce modèle (et être modif
 
 Affiche les accents au format ANSI.
 (et leur équivalent en commentaire dans le code)
+
+## menu.bat
+
+Démonstration de l'utilisation d'un menu pour lancer un programme sélectionné.
+
+- commande `CHOICE` : pour créer un menu
+- commande `START`  : pour lancer un programme
