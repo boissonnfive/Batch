@@ -7,11 +7,12 @@ echo ^| Auteur      : Bruno Boissonnet                                          
 echo ^| Date        : 13/03/2015                                                    ^|
 echo ^| Description : D‚monstration d'un menu pour lancer des programmes.           ^|
 echo ^| Remarques   : Micorosoft Office doit ˆtre install‚.                         ^|
+echo ^|               Le fichier doit ˆtre sauvegard‚ dans l'encodage ANSI(cp1252). ^|
 echo +-----------------------------------------------------------------------------+
 echo(
 echo Faire Ctrl+C pour quitter le programme ou appuyer sur une touche pour continuer.
 
-REM On fait une pause pour que la fenêtre reste affichée
+REM On fait une pause pour que la fenˆtre reste affich‚e
 pause>nul
 
 REM +--DEBUT-DU-PROGRAMME---------------------------------------------------------+
@@ -53,6 +54,6 @@ rem si on met "goto debut" ici, on retourne au debut du menu.
 rem (dans ce cas il faut penser à ajouter une option quitter dans le menu)
 
 echo(
-REM On fait une pause pour que la fenêtre reste affichée
+REM On fait une pause pour que la fenˆtre reste affich‚e
 echo Appuyer sur une touche pour quitter le programme.
 pause>nul 
